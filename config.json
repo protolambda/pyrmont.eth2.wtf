@@ -4,16 +4,16 @@
         "WS_API": "ws://localhost:8080/ws"
     },
     "remote": {
-        "HTTP_API": "https://api.toledo.eth2.wtf/api",
-        "WS_API": "wss://api.toledo.eth2.wtf/ws"
+        "HTTP_API": "https://api.pyrmont.eth2.wtf/api",
+        "WS_API": "wss://api.pyrmont.eth2.wtf/ws"
     },
     "network": {
-        "name": "Toledo",
-        "joinURL": "https://github.com/protolambda/toledo",
-        "issuesURL": "https://github.com/protolambda/toledo.eth2.wtf/issues",
-        "forkURL": "https://github.com/protolambda/toledo.eth2.wtf",
-        "serverAddr": "grpc.toledo.eth2.wtf:8080",
-        "forkName": "toledo"
+        "name": "pyrmont",
+        "joinURL": "https://github.com/protolambda/pyrmont",
+        "issuesURL": "https://github.com/protolambda/pyrmont.eth2.wtf/issues",
+        "forkURL": "https://github.com/protolambda/pyrmont.eth2.wtf",
+        "serverAddr": "grpc.pyrmont.eth2.wtf:8080",
+        "forkName": "pyrmont"
     },
     "others": {
         "Medalla Testnet": "https://eth2stats.io/medalla-testnet"
