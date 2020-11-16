@@ -41,7 +41,7 @@ export const TableRow: React.FC<ITableRowProps> = observer((props) => {
         <div
             {...handleHover}
             className={
-                "py-4 w-full border-b border-darkprimary-100 " +
+                "py-1 w-full border-b border-darkprimary-100 " +
                 "font-semibold text-sm hover:text-white transition " +
                 `${client.online ? "online" : "offline"}`
             }>

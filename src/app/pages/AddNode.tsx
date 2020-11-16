@@ -139,7 +139,7 @@ export const AddNode: React.FC = () => {
     return (
         <div
             className="w-full h-full flex flex-wrap bg-darkprimary-100 p-0 text-white max-w-screen-xl mx-auto"
-            style={{marginTop: store.hasOtherDashses() && 48 || 0}}
+            style={{marginTop: 48}}
         >
             <div className="w-full flex flex-col sm:justify-center h-24">
                 <div className="flex justify-between w-full py-4 sm:py-0">
